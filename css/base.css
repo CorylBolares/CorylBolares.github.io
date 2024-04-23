@@ -92,8 +92,8 @@ h1 {
 }
 
 mark {
-	background: #ff0;
-	color: #000;
+	background: rgb(17, 17, 5);
+	color: #ffffff;
 }
 
 small {

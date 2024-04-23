@@ -463,10 +463,10 @@
 	z-index: 1044;
 }
 .mfp-preloader a {
-	color: #CCC;
+	color: #dabcbc;
 }
 .mfp-preloader a:hover {
-	color: #FFF;
+	color: #e0d0d0;
 }
 .mfp-s-ready .mfp-preloader {
 	display: none;
@@ -503,7 +503,7 @@ button::-moz-focus-inner {
 	opacity: 0.65;
 	filter: alpha(opacity=65);
 	padding: 0 0 18px 10px;
-	color: #FFF;
+	color: #a98f8f;
 	font-style: normal;
 	font-size: 28px;
 	font-family: Arial, Baskerville, monospace;
